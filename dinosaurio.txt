@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 holaaaa
 teclado
 camara
 pantalla
-=======
 <html>
 <head>
 </head>
 <p>sajdhiahdiua</p>
 </html>
->>>>>>> 4ab82855d36249ec44b33e1c11febba42545b1c2
