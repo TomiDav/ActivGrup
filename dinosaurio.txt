@@ -1,2 +1,4 @@
 holaaaa
-
+teclado
+camara
+pantalla
